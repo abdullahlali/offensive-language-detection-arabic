@@ -36,7 +36,7 @@ pip install pandas nltk scikit-learn openpyxl
 ## Project Structure
 
 ```bash
-arab_guard/
+offensive-language-detection-arabic/
 │
 ├── arabic_offensive_dataset.xlsx  # The dataset containing the Arabic text and labels
 ├── arab_guard.py                  # Main Python script
